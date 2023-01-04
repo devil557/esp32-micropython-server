@@ -1,13 +1,12 @@
 #  ESP32: Micropython Web server with  SYSTEM control panel + Weather Station                                 
-                                   " Connecting world ,down to Earth"
-  ![image](https://user-images.githubusercontent.com/121890637/210415215-8061e4a0-7d1c-425f-9211-69d9a9dc0c1c.png) 
+         " Connecting world ,down to Earth"
   
 ![image](https://user-images.githubusercontent.com/121890637/210415812-e357f53c-9e5e-446d-bae6-86a66e6728a0.png)
 
 This is an asynchronous ESP32 web server with the DHT11 that displays temperature and humidity using esp32 using MicroPython Code.
 We will first interface the Sensor with ESP32 only and check the temperature and humidity reading in Shell Window. Similarly, we will add extra 0.96″/1.3″ I2C  oled display to the same circuit and display the Humidity Temperature reading on OLED Screen.
 
-![image](https://user-images.githubusercontent.com/121890637/210415846-b0b7192c-4abd-4b89-949a-99e8b3be4da9.png)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/121890637/210417511-3906a461-4e96-42ef-9ccd-43fda5828cb5.png)
